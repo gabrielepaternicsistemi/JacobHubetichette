@@ -1,0 +1,1 @@
+select ar_codart, ar_descr from artico order by ar_codart asc

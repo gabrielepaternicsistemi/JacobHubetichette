@@ -1,0 +1,1 @@
+select * from hhTMP_ETARTICO 

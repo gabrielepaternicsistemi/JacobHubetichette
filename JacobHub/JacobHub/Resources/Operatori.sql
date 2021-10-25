@@ -1,0 +1,1 @@
+select op_id, op_name from hhoperatori
